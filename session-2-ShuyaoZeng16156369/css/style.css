@@ -1,0 +1,42 @@
+h1{
+  font-size:80px;
+  font-weight: bold;
+  text-align: center;
+  font-family: Monospace;
+}
+
+h2{
+	font-size:40px;
+	text-align: center;
+}
+
+h3{
+  font-size:25px;
+  font-weight: bold;
+	text-align: center;
+}
+
+p{
+	font-size:18px;
+	text-align: center;
+}
+
+body{
+    background-color: #FFFAF0;
+}
+
+.bg{
+  display: block;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+.icon {
+  max-width: 185px;
+  margin: 0 auto;
+  display: block;
+
+.services section {
+  text-align: center;
+}
