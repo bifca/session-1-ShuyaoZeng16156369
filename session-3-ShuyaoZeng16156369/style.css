@@ -1,0 +1,19 @@
+body{
+	
+	background-color: #87CEFA;
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+div{
+	 width: 800px;
+    
+    text-align: center;
+    margin: 0 auto;
+}
+
+.container{
+	width: 800px;
+	text-align: center;
+}
